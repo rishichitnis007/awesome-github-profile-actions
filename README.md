@@ -3,6 +3,7 @@
 A curated list of Awesome github profile actions that can be used on your github Profile README.
 
 - [WakaTime Stats](https://github.com/anmol098/waka-readme-stats)
+- [Dynamic Github Profile Page](https://github.com/umutphp/github-action-dynamic-profile-page)
 
 ## Contribute
 
