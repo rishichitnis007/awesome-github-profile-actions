@@ -8,7 +8,7 @@ A curated list of Awesome github profile actions that can be used on your github
 
 #### 📈 Graphs
 - [Github Profile 3D Contributions](yoshi389111/github-profile-3d-contrib)
-
+- [Snake](https://github.com/Platane/snk)
 #### Dynamic 
 - [Dynamic Github Profile Page](https://github.com/umutphp/github-action-dynamic-profile-page)
 
