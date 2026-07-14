@@ -2,9 +2,15 @@
 # Awesome Github Profile Actions
 A curated list of Awesome github profile actions that can be used on your github Profile README.
 
+## Categories
+#### 📊 Stats
 - [WakaTime Stats](https://github.com/anmol098/waka-readme-stats)
-- [Dynamic Github Profile Page](https://github.com/umutphp/github-action-dynamic-profile-page)
+
+#### 📈 Graphs
 - [Github Profile 3D Contributions](yoshi389111/github-profile-3d-contrib)
+
+#### Dynamic 
+- [Dynamic Github Profile Page](https://github.com/umutphp/github-action-dynamic-profile-page)
 
 ## Contribute
 
