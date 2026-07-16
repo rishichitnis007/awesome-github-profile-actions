@@ -16,6 +16,11 @@ A curated list of Awesome github profile actions that can be used on your github
 #### Cards
 - [Youtube Cards](https://github.com/denvercoder1/github-readme-youtube-cards)
 
+#### Activity
+
+- [Recent Activity](https://github.com/jamesgeorge007/github-activity-readme)
+- [Activity Log](https://github.com/TheDanniCraft/activity-log)
+
 #### Quotes
 - [Quotes](https://github.com/PiyushSuthar/github-readme-quotes)
 
